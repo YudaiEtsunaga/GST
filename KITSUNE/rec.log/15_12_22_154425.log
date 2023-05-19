@@ -1,0 +1,298 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.15 15:44:25 =~=~=~=~=~=~=~=~=~=~=~=
+Starting LoRa rx
+1000
+10011000
+100010011000
+Received pkt nbr: 1 after  ms
+ with RSSI -92
+Data: DD,11,55,1
+Time	11:28:22
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 2 after  ms
+ with RSSI -99
+Data: DD,11,55,1
+Time	15:45:44
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 3 after  ms
+ with RSSI -88
+Data: DD,11,55,1
+Time	15:45:44
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 4 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:46:0
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 5 after  ms
+ with RSSI -88
+Data: DD,11,55,1
+Time	15:46:16
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 6 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:46:32
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 7 after  ms
+ with RSSI -88
+Data: DD,11,55,1
+Time	15:46:50
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 8 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:47:6
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 9 after  ms
+ with RSSI -91
+Data: DD,11,55,1
+Time	15:47:22
+Temperature	22.00
+1000
+10011000
+100010011000
+Received pkt nbr: 10 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:47:38
+Temperature	22.00
+1000
+1111111
+100001111111
+Received pkt nbr: 11 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:47:54
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 12 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:48:10
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 13 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:48:28
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 14 after  ms
+ with RSSI -86
+Data: DD,11,55,1
+Time	15:48:44
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 15 after  ms
+ with RSSI -102
+Data: DD,11,55,1
+Time	15:49:0
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 16 after  ms
+ with RSSI -93
+Data: DD,11,55,1
+Time	15:45:44
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 17 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:46:0
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 18 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:46:16
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 19 after  ms
+ with RSSI -91
+Data: DD,11,55,1
+Time	15:46:32
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 20 after  ms
+ with RSSI -91
+Data: DD,11,55,1
+Time	15:46:50
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 21 after  ms
+ with RSSI -97
+Data: DD,11,55,1
+Time	15:47:6
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 22 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:47:22
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 23 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:47:38
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 24 after  ms
+ with RSSI -91
+Data: DD,11,55,1
+Time	15:47:54
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 25 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:48:10
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 26 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:48:28
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 27 after  ms
+ with RSSI -89
+Data: DD,11,55,1
+Time	15:53:0
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 28 after  ms
+ with RSSI -88
+Data: DD,11,55,1
+Time	15:53:18
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 29 after  ms
+ with RSSI -90
+Data: DD,11,55,1
+Time	15:53:42
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 30 after  ms
+ with RSSI -96
+Data: DD,11,55,1
+Time	15:53:58
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 31 after  ms
+ with RSSI -93
+Data: DD,11,55,1
+Time	15:54:16
+Temperature	21.00
+1000
+1111111
+100001111111
+Received pkt nbr: 32 after  ms
+ with RSSI -93
+Data: DD,11,55,1
+Time	15:54:32
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 33 after  ms
+ with RSSI -92
+Data: DD,11,55,1
+Time	15:54:48
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 34 after  ms
+ with RSSI -93
+Data: DD,11,55,1
+Time	15:55:4
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 35 after  ms
+ with RSSI -92
+Data: DD,11,55,1
+Time	15:55:20
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 36 after  ms
+ with RSSI -93
+Data: DD,11,55,1
+Time	15:55:36
+Temperature	21.00
+1000
+1100110
+100001100110
+Received pkt nbr: 37 after  ms
+ with RSSI -94
+Data: DD,11,55,1
+Time	15:55:54
+Temperature	21.00

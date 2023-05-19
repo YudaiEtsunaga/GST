@@ -1,0 +1,575 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.21 10:17:43 =~=~=~=~=~=~=~=~=~=~=~=
+1671617815
+Time: 10:16:55
+Temp: 13.
+
+1671617852
+Time: 10:17:32
+Temp: 13.50
+Sending packet 13:    44 44 44 1 52 30 5 46 1 9A 
+
+1671617863
+Time: 10:17:43
+Temp: 13.50
+Sending packet 14:    44 44 44 1 52 35 5 46 1 9F 
+
+1671617873
+Time: 10:17:53
+Temp: 13.50
+Sending packet 15:    44 44 44 1 52 3A 5 46 1 A4 
+
+1671617883
+Time: 10:18:3
+Temp: 13.50
+Sending packet 16:    44 44 44 1 52 41 5 46 1 AB 
+
+1671617894
+Time: 10:18:14
+Temp: 13.50
+Sending packet 17:    44 44 44 1 52 47 5 46 1 B1 
+
+1671617904
+Time: 10:18:24
+Temp: 13.50
+Sending packet 18:    44 44 44 1 52 4C 5 46 1 B6 
+
+1671617915
+Time: 10:18:35
+Temp: 13.25
+Sending packet 19:    44 44 44 1 52 51 5 2D 1 A2 
+
+1671617925
+Time: 10:18:45
+Temp: 13.25
+Sending packet 20:    44 44 44 1 52 56 5 2D 1 A7 
+
+1671617936
+Time: 10:18:56
+Temp: 13.25
+Sending packet 21:    44 44 44 1 52 5C 5 2D 1 AD 
+
+1671617946
+Time: 10:19:6
+Temp: 13.25
+Sending packet 22:    44 44 44 1 52 63 5 2D 1 B4 
+
+1671617957
+Time: 10:19:17
+Temp: 13.25
+Sending packet 23:    44 44 44 1 52 68 5 2D 1 B9 
+
+1671617967
+Time: 10:19:27
+Temp: 13.25
+Sending packet 24:    44 44 44 1 52 6D 5 2D 1 BE 
+
+1671617978
+Time: 10:19:38
+Temp: 13.50
+Sending packet 25:    44 44 44 1 52 73 5 46 1 DD 
+
+1671617988
+Time: 10:19:48
+Temp: 13.50
+Sending packet 26:    44 44 44 1 52 78 5 46 1 E2 
+
+1671617998
+Time: 10:19:58
+Temp: 13.50
+Sending packet 27:    44 44 44 1 52 7D 5 46 1 E7 
+
+1671618009
+Time: 10:20:9
+Temp: 13.50
+Sending packet 28:    44 44 44 1 52 84 5 46 1 EE 
+
+1671618019
+Time: 10:20:19
+Temp: 13.50
+Sending packet 29:    44 44 44 1 52 89 5 46 1 F3 
+
+1671618030
+Time: 10:20:30
+Temp: 13.50
+Sending packet 30:    44 44 44 1 52 8F 5 46 1 F9 
+
+1671618040
+Time: 10:20:40
+Temp: 13.75
+Sending packet 31:    44 44 44 1 52 94 5 5F 2 17 
+
+1671618051
+Time: 10:20:51
+Temp: 13.75
+Sending packet 32:    44 44 44 1 52 99 5 5F 2 1C 
+
+1671618061
+Time: 10:21:1
+Temp: 13.75
+Sending packet 33:    44 44 44 1 52 A0 5 5F 2 23 
+
+1671618072
+Time: 10:21:12
+Temp: 13.75
+Sending packet 34:    44 44 44 1 52 A6 5 5F 2 29 
+
+1671618082
+Time: 10:21:22
+Temp: 13.75
+Sending packet 35:    44 44 44 1 52 AB 5 5F 2 2E 
+
+1671618093
+Time: 10:21:33
+Temp: 13.75
+Sending packet 36:    44 44 44 1 52 B0 5 5F 2 33 
+
+1671618103
+Time: 10:21:43
+Temp: 13.75
+Sending packet 37:    44 44 44 1 52 B5 5 5F 2 38 
+
+1671618113
+Time: 10:21:53
+Temp: 13.75
+Sending packet 38:    44 44 44 1 52 BA 5 5F 2 3D 
+
+1671618124
+Time: 10:22:4
+Temp: 13.75
+Sending packet 39:    44 44 44 1 52 C2 5 5F 2 45 
+
+1671618134
+Time: 10:22:14
+Temp: 13.75
+Sending packet 40:    44 44 44 1 52 C7 5 5F 2 4A 
+
+1671618145
+Time: 10:22:25
+Temp: 13.75
+Sending packet 41:    44 44 44 1 52 CC 5 5F 2 4F 
+
+1671618155
+Time: 10:22:35
+Temp: 13.75
+Sending packet 42:    44 44 44 1 52 D1 5 5F 2 54 
+
+1671618166
+Time: 10:22:46
+Temp: 13.50
+Sending packet 43:    44 44 44 1 52 D7 5 46 2 41 
+
+1671618176
+Time: 10:22:56
+Temp: 13.50
+Sending packet 44:    44 44 44 1 52 DC 5 46 2 46 
+
+1671618187
+Time: 10:23:7
+Temp: 13.50
+Sending packet 45:    44 44 44 1 52 E3 5 46 2 4D 
+
+1671618197
+Time: 10:23:17
+Temp: 13.50
+Sending packet 46:    44 44 44 1 52 E8 5 46 2 52 
+
+1671618208
+Time: 10:23:28
+Temp: 13.50
+Sending packet 47:    44 44 44 1 52 EE 5 46 2 58 
+
+1671618218
+Time: 10:23:38
+Temp: 13.50
+Sending packet 48:    44 44 44 1 52 F3 5 46 2 5D 
+
+1671618228
+Time: 10:23:48
+Temp: 13.50
+Sending packet 49:    44 44 44 1 52 F8 5 46 2 62 
+
+1671618239
+Time: 10:23:59
+Temp: 13.25
+Sending packet 50:    44 44 44 1 52 FD 5 2D 2 4E 
+
+1671618249
+Time: 10:24:9
+Temp: 13.25
+Sending packet 51:    44 44 44 1 53 4 5 2D 1 56 
+
+1671618260
+Time: 10:24:20
+Temp: 13.25
+Sending packet 52:    44 44 44 1 53 A 5 2D 1 5C 
+
+1671618270
+Time: 10:24:30
+Temp: 13.25
+Sending packet 53:    44 44 44 1 53 F 5 2D 1 61 
+
+1671618281
+Time: 10:24:41
+Temp: 13.25
+Sending packet 54:    44 44 44 1 53 14 5 2D 1 66 
+
+1671618291
+Time: 10:24:51
+Temp: 13.25
+Sending packet 55:    44 44 44 1 53 19 5 2D 1 6B 
+
+1671618302
+Time: 10:25:2
+Temp: 13.50
+Sending packet 56:    44 44 44 1 53 21 5 46 1 8C 
+
+1671618312
+Time: 10:25:12
+Temp: 13.50
+Sending packet 57:    44 44 44 1 53 26 5 46 1 91 
+
+1671618323
+Time: 10:25:23
+Temp: 13.50
+Sending packet 58:    44 44 44 1 53 2B 5 46 1 96 
+
+1671618333
+Time: 10:25:33
+Temp: 13.50
+Sending packet 59:    44 44 44 1 53 30 5 46 1 9B 
+
+1671618343
+Time: 10:25:43
+Temp: 13.50
+Sending packet 60:    44 44 44 1 53 35 5 46 1 A0 
+
+1671618354
+Time: 10:25:54
+Temp: 13.50
+Sending packet 61:    44 44 44 1 53 3B 5 46 1 A6 
+
+1671618364
+Time: 10:26:4
+Temp: 13.25
+Sending packet 62:    44 44 44 1 53 42 5 2D 1 94 
+
+1671618375
+Time: 10:26:15
+Temp: 13.25
+Sending packet 63:    44 44 44 1 53 47 5 2D 1 99 
+
+1671618385
+Time: 10:26:25
+Temp: 13.25
+Sending packet 64:    44 44 44 1 53 4C 5 2D 1 9E 
+
+1671618396
+Time: 10:26:36
+Temp: 13.25
+Sending packet 65:    44 44 44 1 53 52 5 2D 1 A4 
+
+1671618406
+Time: 10:26:46
+Temp: 13.25
+Sending packet 66:    44 44 44 1 53 57 5 2D 1 A9 
+
+1671618417
+Time: 10:26:57
+Temp: 13.25
+Sending packet 67:    44 44 44 1 53 5C 5 2D 1 AE 
+
+1671618427
+Time: 10:27:7
+Temp: 13.50
+Sending packet 68:    44 44 44 1 53 63 5 46 1 CE 
+
+1671618438
+Time: 10:27:18
+Temp: 13.50
+Sending packet 69:    44 44 44 1 53 69 5 46 1 D4 
+
+1671618448
+Time: 10:27:28
+Temp: 13.50
+Sending packet 70:    44 44 44 1 53 6E 5 46 1 D9 
+
+1671618458
+Time: 10:27:38
+Temp: 13.50
+Sending packet 71:    44 44 44 1 53 73 5 46 1 DE 
+
+1671618469
+Time: 10:27:49
+Temp: 13.50
+Sending packet 72:    44 44 44 1 53 78 5 46 1 E3 
+
+1671618479
+Time: 10:27:59
+Temp: 13.50
+Sending packet 73:    44 44 44 1 53 7D 5 46 1 E8 
+
+1671618490
+Time: 10:28:10
+Temp: 13.75
+Sending packet 74:    44 44 44 1 53 85 5 5F 2 9 
+
+1671618500
+Time: 10:28:20
+Temp: 13.75
+Sending packet 75:    44 44 44 1 53 8A 5 5F 2 E 
+
+1671618511
+Time: 10:28:31
+Temp: 13.75
+Sending packet 76:    44 44 44 1 53 8F 5 5F 2 13 
+
+1671618521
+Time: 10:28:41
+Temp: 13.75
+Sending packet 77:    44 44 44 1 53 94 5 5F 2 18 
+
+1671618532
+Time: 10:28:52
+Temp: 13.75
+Sending packet 78:    44 44 44 1 53 9A 5 5F 2 1E 
+
+1671618542
+Time: 10:29:2
+Temp: 13.75
+Sending packet 79:    44 44 44 1 53 A1 5 5F 2 25 
+
+1671618553
+Time: 10:29:13
+Temp: 13.75
+Sending packet 80:    44 44 44 1 53 A6 5 5F 2 2A 
+
+1671618563
+Time: 10:29:23
+Temp: 13.75
+Sending packet 81:    44 44 44 1 53 AB 5 5F 2 2F 
+
+1671618573
+Time: 10:29:33
+Temp: 13.75
+Sending packet 82:    44 44 44 1 53 B0 5 5F 2 34 
+
+1671618584
+Time: 10:29:44
+Temp: 13.75
+Sending packet 83:    44 44 44 1 53 B6 5 5F 2 3A 
+
+1671618594
+Time: 10:29:54
+Temp: 13.75
+Sending packet 84:    44 44 44 1 53 BB 5 5F 2 3F 
+
+1671618605
+Time: 10:30:5
+Temp: 13.75
+Sending packet 85:    44 44 44 1 53 C2 5 5F 2 46 
+
+1671618615
+Time: 10:30:15
+Temp: 13.75
+Sending packet 86:    44 44 44 1 53 C7 5 5F 2 4B 
+
+1671618626
+Time: 10:30:26
+Temp: 13.75
+Sending packet 87:    44 44 44 1 53 CD 5 5F 2 51 
+
+1671618636
+Time: 10:30:36
+Temp: 13.75
+Sending packet 88:    44 44 44 1 53 D2 5 5F 2 56 
+
+1671618647
+Time: 10:30:47
+Temp: 13.75
+Sending packet 89:    44 44 44 1 53 D7 5 5F 2 5B 
+
+1671618657
+Time: 10:30:57
+Temp: 13.75
+Sending packet 90:    44 44 44 1 53 DC 5 5F 2 60 
+
+1671618668
+Time: 10:31:8
+Temp: 13.75
+Sending packet 91:    44 44 44 1 53 E4 5 5F 2 68 
+
+1671618678
+Time: 10:31:18
+Temp: 13.75
+Sending packet 92:    44 44 44 1 53 E9 5 5F 2 6D 
+
+1671618688
+Time: 10:31:28
+Temp: 13.75
+Sending packet 93:    44 44 44 1 53 EE 5 5F 2 72 
+
+1671618699
+Time: 10:31:39
+Temp: 13.75
+Sending packet 94:    44 44 44 1 53 F3 5 5F 2 77 
+
+1671618709
+Time: 10:31:49
+Temp: 13.75
+Sending packet 95:    44 44 44 1 53 F8 5 5F 2 7C 
+
+1671618720
+Time: 10:32:0
+Temp: 13.75
+Sending packet 96:    44 44 44 1 54 0 5 5F 1 85 
+
+1671618730
+Time: 10:32:10
+Temp: 13.75
+Sending packet 97:    44 44 44 1 54 5 5 5F 1 8A 
+
+1671618741
+Time: 10:32:21
+Temp: 13.75
+Sending packet 98:    44 44 44 1 54 A 5 5F 1 8F 
+
+1671618751
+Time: 10:32:31
+Temp: 13.50
+Sending packet 99:    44 44 44 1 54 F 5 46 1 7B 
+
+1671618762
+Time: 10:32:42
+Temp: 13.50
+Sending packet 100:    44 44 44 1 54 15 5 46 1 81 
+
+1671618772
+Time: 10:32:52
+Temp: 13.50
+Sending packet 101:    44 44 44 1 54 1A 5 46 1 86 
+
+1671618783
+Time: 10:33:3
+Temp: 13.50
+Sending packet 102:    44 44 44 1 54 21 5 46 1 8D 
+
+1671618793
+Time: 10:33:13
+Temp: 13.50
+Sending packet 103:    44 44 44 1 54 26 5 46 1 92 
+
+1671618803
+Time: 10:33:23
+Temp: 13.50
+Sending packet 104:    44 44 44 1 54 2B 5 46 1 97 
+
+1671618814
+Time: 10:33:34
+Temp: 13.50
+Sending packet 105:    44 44 44 1 54 31 5 46 1 9D 
+
+1671618824
+Time: 10:33:44
+Temp: 13.50
+Sending packet 106:    44 44 44 1 54 36 5 46 1 A2 
+
+1671618835
+Time: 10:33:55
+Temp: 13.50
+Sending packet 107:    44 44 44 1 54 3B 5 46 1 A7 
+
+1671618845
+Time: 10:34:5
+Temp: 13.50
+Sending packet 108:    44 44 44 1 54 42 5 46 1 AE 
+
+1671618856
+Time: 10:34:16
+Temp: 13.50
+Sending packet 109:    44 44 44 1 54 48 5 46 1 B4 
+
+1671618866
+Time: 10:34:26
+Temp: 13.50
+Sending packet 110:    44 44 44 1 54 4D 5 46 1 B9 
+
+1671618877
+Time: 10:34:37
+Temp: 13.50
+Sending packet 111:    44 44 44 1 54 52 5 46 1 BE 
+
+1671618887
+Time: 10:34:47
+Temp: 13.50
+Sending packet 112:    44 44 44 1 54 57 5 46 1 C3 
+
+1671618898
+Time: 10:34:58
+Temp: 13.50
+Sending packet 113:    44 44 44 1 54 5D 5 46 1 C9 
+
+1671618908
+Time: 10:35:8
+Temp: 13.50
+Sending packet 114:    44 44 44 1 54 64 5 46 1 D0 
+
+1671618918
+Time: 10:35:18
+Temp: 13.50
+Sending packet 115:    44 44 44 1 54 69 5 46 1 D5 
+
+1671618929
+Time: 10:35:29
+Temp: 13.50
+Sending packet 116:    44 44 44 1 54 6E 5 46 1 DA 
+
+1671618939
+Time: 10:35:39
+Temp: 13.50
+Sending packet 117:    44 44 44 1 54 73 5 46 1 DF 
+
+1671618950
+Time: 10:35:50
+Temp: 13.50
+Sending packet 118:    44 44 44 1 54 79 5 46 1 E5 
+
+1671618960
+Time: 10:36:0
+Temp: 13.50
+Sending packet 119:    44 44 44 1 54 80 5 46 1 EC 
+
+1671618971
+Time: 10:36:11
+Temp: 13.50
+Sending packet 120:    44 44 44 1 54 85 5 46 1 F1 
+
+1671618981
+Time: 10:36:21
+Temp: 13.50
+Sending packet 121:    44 44 44 1 54 8A 5 46 1 F6 
+
+1671618992
+Time: 10:36:32
+Temp: 13.50
+Sending packet 122:    44 44 44 1 54 90 5 46 1 FC 
+
+1671619002
+Time: 10:36:42
+Temp: 13.50
+Sending packet 123:    44 44 44 1 54 95 5 46 2 1 
+
+1671619013
+Time: 10:36:53
+Temp: 13.50
+Sending packet 124:    44 44 44 1 54 9A 5 46 2 6 
+
+1671619023
+Time: 10:37:3
+Temp: 13.50
+Sending packet 125:    44 44 44 1 54 A1 5 46 2 D 
+
+1671619033
+Time: 10:37:13
+Temp: 13.50
+Sending packet 126:    44 44 44 1 54 A6 5 46 2 12 
+

@@ -1,0 +1,357 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.19 11:07:22 =~=~=~=~=~=~=~=~=~=~=~=
+Starting LoRa rx
+600013C6800CEC007802DE 
+Received pkt nbr: 1 with RSSI: -112
+Data: 6,0,0,0
+Time	2:30:12
+Temperature	327.00
+000013C6810CEC007802D9 
+Received pkt nbr: 2 with RSSI: -107
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	330.00
+000013C6830CEC007802DB 
+Received pkt nbr: 3 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	335.00
+000013C6840CEC007802DC 
+Received pkt nbr: 4 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	337.00
+000013C6860CEC007802DE 
+Received pkt nbr: 5 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	343.00
+000013C6870CEC007802DF 
+Received pkt nbr: 6 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	345.00
+000013C6890CEC007902F1 
+Received pkt nbr: 7 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	350.00
+000013C68A0CEC007902F2 
+Received pkt nbr: 8 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	353.00
+000013C68B0CEC007902F3 
+Received pkt nbr: 9 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	355.00
+000013C68D0CEC007902F5 
+Received pkt nbr: 10 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	360.00
+000013C68E0CEC007902F6 
+Received pkt nbr: 11 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	363.00
+000013C6900CEC007902F8 
+Received pkt nbr: 12 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	368.00
+000013C6910CEC007A039 
+Received pkt nbr: 13 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	371.00
+000013C6930CEC007A03B 
+Received pkt nbr: 14 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	376.00
+000013C6940CEC007A03C 
+Received pkt nbr: 15 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	378.00
+000013C6960CEC007A03E 
+Received pkt nbr: 16 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	384.00
+000013C6970CEC007A03F 
+Received pkt nbr: 17 with RSSI: -100
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	386.00
+000013C6980CEC007A0310 
+Received pkt nbr: 18 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	389.00
+000013C69A0CEC007B0322 
+Received pkt nbr: 19 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	394.00
+000013C69B0CEC007B0323 
+Received pkt nbr: 20 with RSSI: -103
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	396.00
+000013C69D0CEC007B0325 
+Received pkt nbr: 21 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	401.00
+000013C69E0CEC007B0326 
+Received pkt nbr: 22 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	404.00
+000013C6A00CEC007B0328 
+Received pkt nbr: 23 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	409.00
+000013C6A10CEC007B0329 
+Received pkt nbr: 24 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	412.00
+000013C6A30CEC007C033B 
+Received pkt nbr: 25 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	417.00
+000013C6A40CEC007C033C 
+Received pkt nbr: 26 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	419.00
+000013C6A60CEC007C033E 
+Received pkt nbr: 27 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	424.00
+000013C6A90CEC007C0341 
+Received pkt nbr: 28 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	432.00
+000013C6AA0CEC007C0342 
+Received pkt nbr: 29 with RSSI: -108
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	435.00
+000013C6AC0CEC007D0354 
+Received pkt nbr: 30 with RSSI: -105
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	440.00
+000013C6AD0CEC007D0355 
+Received pkt nbr: 31 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	442.00
+000013C6AE0CEC007D0356 
+Received pkt nbr: 32 with RSSI: -105
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	445.00
+000013C6B00CEC007D0358 
+Received pkt nbr: 33 with RSSI: -103
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	450.00
+000013C6B10CEC007D0359 
+Received pkt nbr: 34 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	453.00
+000013C6B30CEC007D035B 
+Received pkt nbr: 35 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	458.00
+000013C6B50CEC007E036D 
+Received pkt nbr: 36 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	463.00
+000013C6B70CEC007E036F 
+Received pkt nbr: 37 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	468.00
+000013C6B80CEC007E0370 
+Received pkt nbr: 38 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	471.00
+000013C6BA0CEC007E0372 
+Received pkt nbr: 39 with RSSI: -103
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	476.00
+000013C6BB0CEC007E0373 
+Received pkt nbr: 40 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	478.00
+000013C6BC0CEC007E0374 
+Received pkt nbr: 41 with RSSI: -103
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	481.00
+000013C6BE0CEC007F0386 
+Received pkt nbr: 42 with RSSI: -101
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	486.00
+000013C6BF0CEC007F0387 
+Received pkt nbr: 43 with RSSI: -102
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	488.00
+000013C6C10CEC007F0389 
+Received pkt nbr: 44 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	494.00
+000013C6C20CEC007F038A 
+Received pkt nbr: 45 with RSSI: -103
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	496.00
+000013C6C40CEC007F038C 
+Received pkt nbr: 46 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	501.00
+000013C6C50CEC007F038D 
+Received pkt nbr: 47 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	504.00
+000013C6C70CEC00802A0 
+Received pkt nbr: 48 with RSSI: -104
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	509.00
+200013C6800CEC007D032A 
+Received pkt nbr: 49 with RSSI: -111
+Data: 2,0,0,0
+Time	2:30:12
+Temperature	327.00
+000013C6810CEC007D0329 
+Received pkt nbr: 50 with RSSI: -115
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	330.00
+000013C6830CEC007D032B 
+Received pkt nbr: 51 with RSSI: -114
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	335.00
+000013C6840CEC007D032C 
+Received pkt nbr: 52 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	337.00
+000013C6860CEC007D032E 
+Received pkt nbr: 53 with RSSI: -114
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	343.00
+000013C6870CEC007D032F 
+Received pkt nbr: 54 with RSSI: -114
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	345.00
+00D013C68A0CECD07E0342 
+Received pkt nbr: 55 with RSSI: -112
+Data: 0,0,D,0
+Time	2:30:12
+Temperature	353.00
+000013C68B0CEC007E0343 
+Received pkt nbr: 56 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	355.00
+000013C68D0CEC007E0345 
+Received pkt nbr: 57 with RSSI: -111
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	360.00
+000013C6900CEC007E0348 
+Received pkt nbr: 58 with RSSI: -114
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	368.00
+000013C6930CEC007F035B 
+Received pkt nbr: 59 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	376.00
+000013C6940CEC007F035C 
+Received pkt nbr: 60 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	378.00
+000013C6960CEC007F035E 
+Received pkt nbr: 61 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	384.00
+000013C6970CEC007F035F 
+Received pkt nbr: 62 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	386.00
+000013C6980CEC007F0360 
+Received pkt nbr: 63 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	389.00
+000013C69A0CEC0080273 
+Received pkt nbr: 64 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	394.00
+000013C69B0CEC0080274 
+Received pkt nbr: 65 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	396.00
+000013C69D0CEC0080276 
+Received pkt nbr: 66 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	401.00
+000013C69E0CEC0080277 
+Received pkt nbr: 67 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	404.00
+000013C6A00CEC0080279 
+Received pkt nbr: 68 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	409.00
+000013C6A10CEC008027A 
+Received pkt nbr: 69 with RSSI: -113
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	412.00
+000013C6A40CEC0081028D 
+Received pkt nbr: 70 with RSSI: -111
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	419.00
+000013C6A60CEC0081028F 
+Received pkt nbr: 71 with RSSI: -112
+Data: 0,0,0,0
+Time	2:30:12
+Temperature	424.00

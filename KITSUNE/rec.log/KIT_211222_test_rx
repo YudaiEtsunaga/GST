@@ -1,0 +1,152 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.21 09:02:32 =~=~=~=~=~=~=~=~=~=~=~=
+Starting LoRa rx
+44 44 44 1 52 2E 9 15 1 6B  
+Received pkt nbr 1 with RSSI: -53
+Data: 44,44,44,1
+Time	10:17:28
+Temperature	23.25
+44 44 44 1 52 33 9 15 1 70  
+Received pkt nbr 2 with RSSI: -51
+Data: 44,44,44,1
+Time	10:17:38
+Temperature	23.25
+44 44 44 1 52 38 9 15 1 75  
+Received pkt nbr 3 with RSSI: -51
+Data: 44,44,44,1
+Time	10:17:48
+Temperature	23.25
+44 44 44 1 52 3D 9 15 1 7A  
+Received pkt nbr 4 with RSSI: -51
+Data: 44,44,44,1
+Time	10:17:58
+Temperature	23.25
+44 44 44 1 52 44 9 15 1 81  
+Received pkt nbr 5 with RSSI: -51
+Data: 44,44,44,1
+Time	10:18:8
+Temperature	23.25
+44 44 44 1 52 4A 9 15 1 87  
+Received pkt nbr 6 with RSSI: -51
+Data: 44,44,44,1
+Time	10:18:20
+Temperature	23.25
+44 44 44 1 52 4F 9 15 1 8C  
+Received pkt nbr 7 with RSSI: -50
+Data: 44,44,44,1
+Time	10:18:30
+Temperature	23.25
+44 44 44 1 52 54 9 15 1 91  
+Received pkt nbr 8 with RSSI: -51
+Data: 44,44,44,1
+Time	10:18:40
+Temperature	23.25
+44 44 44 1 52 59 9 15 1 96  
+Received pkt nbr 9 with RSSI: -52
+Data: 44,44,44,1
+Time	10:18:50
+Temperature	23.25
+44 44 44 1 52 61 9 15 1 9E  
+Received pkt nbr 10 with RSSI: -53
+Data: 44,44,44,1
+Time	10:19:2
+Temperature	23.25
+44 44 44 1 52 66 9 15 1 A3  
+Received pkt nbr 11 with RSSI: -51
+Data: 44,44,44,1
+Time	10:19:12
+Temperature	23.25
+44 44 44 1 52 6B 9 15 1 A8  
+Received pkt nbr 12 with RSSI: -52
+Data: 44,44,44,1
+Time	10:19:22
+Temperature	23.25
+44 44 44 1 52 70 9 15 1 AD  
+Received pkt nbr 13 with RSSI: -52
+Data: 44,44,44,1
+Time	10:19:32
+Temperature	23.25
+44 44 44 1 52 75 9 15 1 B2  
+Received pkt nbr 14 with RSSI: -53
+Data: 44,44,44,1
+Time	10:19:42
+Temperature	23.25
+44 44 44 1 52 7B 9 15 1 B8  
+Received pkt nbr 15 with RSSI: -52
+Data: 44,44,44,1
+Time	10:19:54
+Temperature	23.25
+44 44 44 1 52 82 9 15 1 BF  
+Received pkt nbr 16 with RSSI: -50
+Data: 44,44,44,1
+Time	10:20:4
+Temperature	23.25
+44 44 44 1 52 87 9 15 1 C4  
+Received pkt nbr 17 with RSSI: -51
+Data: 44,44,44,1
+Time	10:20:14
+Temperature	23.25
+44 44 44 1 52 8C 9 15 1 C9  
+Received pkt nbr 18 with RSSI: -51
+Data: 44,44,44,1
+Time	10:20:24
+Temperature	23.25
+44 44 44 1 52 92 9 15 1 CF  
+Received pkt nbr 19 with RSSI: -53
+Data: 44,44,44,1
+Time	10:20:36
+Temperature	23.25
+44 44 44 1 52 97 9 15 1 D4  
+Received pkt nbr 20 with RSSI: -53
+Data: 44,44,44,1
+Time	10:20:46
+Temperature	23.25
+44 44 44 1 52 9C 9 15 1 D9  
+Received pkt nbr 21 with RSSI: -51
+Data: 44,44,44,1
+Time	10:20:56
+Temperature	23.25
+44 44 44 1 52 A3 9 15 1 E0  
+Received pkt nbr 22 with RSSI: -51
+Data: 44,44,44,1
+Time	10:21:6
+Temperature	23.25
+44 44 44 1 52 A9 9 15 1 E6  
+Received pkt nbr 23 with RSSI: -51
+Data: 44,44,44,1
+Time	10:21:18
+Temperature	23.25
+44 44 44 1 52 AE 9 15 1 EB  
+Received pkt nbr 24 with RSSI: -52
+Data: 44,44,44,1
+Time	10:21:28
+Temperature	23.25
+44 44 44 1 52 B3 9 15 1 F0  
+Received pkt nbr 25 with RSSI: -52
+Data: 44,44,44,1
+Time	10:21:38
+Temperature	23.25
+44 44 44 1 52 B8 9 15 1 F5  
+Received pkt nbr 26 with RSSI: -52
+Data: 44,44,44,1
+Time	10:21:48
+Temperature	23.25
+44 44 44 1 52 BD 9 15 1 FA  
+Received pkt nbr 27 with RSSI: -53
+Data: 44,44,44,1
+Time	10:21:58
+Temperature	23.25
+44 44 44 1 52 C5 9 15 2 2  
+Received pkt nbr 28 with RSSI: -53
+Data: 44,44,44,1
+Time	10:22:10
+Temperature	23.25
+44 44 44 1 52 CA 9 15 2 7  
+Received pkt nbr 29 with RSSI: -52
+Data: 44,44,44,1
+Time	10:22:20
+Temperature	23.25
+44 44 44 1 52 CF 9 15 2 C  
+Received pkt nbr 30 with RSSI: -52
+Data: 44,44,44,1
+Time	10:22:30
+Temperature	23.25

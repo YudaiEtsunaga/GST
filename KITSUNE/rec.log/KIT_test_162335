@@ -1,0 +1,307 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.12.19 16:23:35 =~=~=~=~=~=~=~=~=~=~=~=
+Starting LoRa rx
+44444415CB7FC237 
+Received pkt nbr: 1 with RSSI: -70
+Data: 44,44,44,1
+Time	11:32:22
+Temperature	20.00
+44444415C107FC23C 
+Received pkt nbr: 2 with RSSI: -71
+Data: 44,44,44,1
+Time	11:32:32
+Temperature	20.00
+44444415C157FC241 
+Received pkt nbr: 3 with RSSI: -72
+Data: 44,44,44,1
+Time	11:32:42
+Temperature	20.00
+44444415C1A7FC246 
+Received pkt nbr: 4 with RSSI: -72
+Data: 44,44,44,1
+Time	11:32:52
+Temperature	20.00
+44444415C217FC24D 
+Received pkt nbr: 5 with RSSI: -73
+Data: 44,44,44,1
+Time	11:33:2
+Temperature	20.00
+44444415C267FC252 
+Received pkt nbr: 6 with RSSI: -74
+Data: 44,44,44,1
+Time	11:33:12
+Temperature	20.00
+44444415C2B7FD258 
+Received pkt nbr: 7 with RSSI: -73
+Data: 44,44,44,1
+Time	11:33:22
+Temperature	20.00
+44444415C307FE25E 
+Received pkt nbr: 8 with RSSI: -73
+Data: 44,44,44,1
+Time	11:33:32
+Temperature	20.00
+44444415C357FD262 
+Received pkt nbr: 9 with RSSI: -73
+Data: 44,44,44,1
+Time	11:33:42
+Temperature	20.00
+44444415C3A7FE268 
+Received pkt nbr: 10 with RSSI: -74
+Data: 44,44,44,1
+Time	11:33:52
+Temperature	20.00
+44444415C427FD26F 
+Received pkt nbr: 11 with RSSI: -72
+Data: 44,44,44,1
+Time	11:34:4
+Temperature	20.00
+44444415C477FA271 
+Received pkt nbr: 12 with RSSI: -72
+Data: 44,44,44,1
+Time	11:34:14
+Temperature	20.00
+44444415C4C7FD279 
+Received pkt nbr: 13 with RSSI: -68
+Data: 44,44,44,1
+Time	11:34:24
+Temperature	20.00
+44444415C5180182 
+Received pkt nbr: 14 with RSSI: -73
+Data: 44,44,44,1
+Time	11:34:34
+Temperature	20.00
+44444415C567FA280 
+Received pkt nbr: 15 with RSSI: -73
+Data: 44,44,44,1
+Time	11:34:44
+Temperature	20.00
+44444415C5B7FA285 
+Received pkt nbr: 16 with RSSI: -74
+Data: 44,44,44,1
+Time	11:34:54
+Temperature	20.00
+44444415C627FD28F 
+Received pkt nbr: 17 with RSSI: -72
+Data: 44,44,44,1
+Time	11:35:4
+Temperature	20.00
+44444415C677F9290 
+Received pkt nbr: 18 with RSSI: -72
+Data: 44,44,44,1
+Time	11:35:14
+Temperature	20.00
+44444415C6C7FC298 
+Received pkt nbr: 19 with RSSI: -70
+Data: 44,44,44,1
+Time	11:35:24
+Temperature	20.00
+44444415C717F929A 
+Received pkt nbr: 20 with RSSI: -72
+Data: 44,44,44,1
+Time	11:35:34
+Temperature	20.00
+44444415C767FA2A0 
+Received pkt nbr: 21 with RSSI: -86
+Data: 44,44,44,1
+Time	11:35:44
+Temperature	20.00
+44444415C7C7FA2A6 
+Received pkt nbr: 22 with RSSI: -77
+Data: 44,44,44,1
+Time	11:35:56
+Temperature	20.00
+44444415C837F92AC 
+Received pkt nbr: 23 with RSSI: -79
+Data: 44,44,44,1
+Time	11:36:6
+Temperature	20.00
+44444415C887FA2B2 
+Received pkt nbr: 24 with RSSI: -76
+Data: 44,44,44,1
+Time	11:36:16
+Temperature	20.00
+44444415C8D7F82B5 
+Received pkt nbr: 25 with RSSI: -76
+Data: 44,44,44,1
+Time	11:36:26
+Temperature	20.00
+44444415C927FA2BC 
+Received pkt nbr: 26 with RSSI: -76
+Data: 44,44,44,1
+Time	11:36:36
+Temperature	20.00
+44444415C977FD2C4 
+Received pkt nbr: 27 with RSSI: -77
+Data: 44,44,44,1
+Time	11:36:46
+Temperature	20.00
+44444415C9C7FC2C8 
+Received pkt nbr: 28 with RSSI: -78
+Data: 44,44,44,1
+Time	11:36:56
+Temperature	20.00
+44444415CA37F82CB 
+Received pkt nbr: 29 with RSSI: -77
+Data: 44,44,44,1
+Time	11:37:6
+Temperature	20.00
+44444415CA87F92D1 
+Received pkt nbr: 30 with RSSI: -81
+Data: 44,44,44,1
+Time	11:37:16
+Temperature	20.00
+44444415CAD7F32D0 
+Received pkt nbr: 31 with RSSI: -76
+Data: 44,44,44,1
+Time	11:37:26
+Temperature	20.00
+44444415CB27F32D5 
+Received pkt nbr: 32 with RSSI: -75
+Data: 44,44,44,1
+Time	11:37:36
+Temperature	20.00
+44444415CB77F22D9 
+Received pkt nbr: 33 with RSSI: -75
+Data: 44,44,44,1
+Time	11:37:46
+Temperature	20.00
+44444415CBD7ED2DA 
+Received pkt nbr: 34 with RSSI: -78
+Data: 44,44,44,1
+Time	11:37:58
+Temperature	20.00
+44444415CC47F02E4 
+Received pkt nbr: 35 with RSSI: -86
+Data: 44,44,44,1
+Time	11:38:8
+Temperature	20.00
+44444415CC97F22EB 
+Received pkt nbr: 36 with RSSI: -86
+Data: 44,44,44,1
+Time	11:38:18
+Temperature	20.00
+44444415CCE7F32F1 
+Received pkt nbr: 37 with RSSI: -77
+Data: 44,44,44,1
+Time	11:38:28
+Temperature	20.00
+44444415CD37F52F8 
+Received pkt nbr: 38 with RSSI: -81
+Data: 44,44,44,1
+Time	11:38:38
+Temperature	20.00
+44444415CD87F32FB 
+Received pkt nbr: 39 with RSSI: -80
+Data: 44,44,44,1
+Time	11:38:48
+Temperature	20.00
+44444415CDD7F330 
+Received pkt nbr: 40 with RSSI: -76
+Data: 44,44,44,1
+Time	11:38:58
+Temperature	20.00
+44444415CE47F539 
+Received pkt nbr: 41 with RSSI: -81
+Data: 44,44,44,1
+Time	11:39:8
+Temperature	20.00
+44444415CE97F53E 
+Received pkt nbr: 42 with RSSI: -79
+Data: 44,44,44,1
+Time	11:39:18
+Temperature	20.00
+44444415CEE7F5313 
+Received pkt nbr: 43 with RSSI: -76
+Data: 44,44,44,1
+Time	11:39:28
+Temperature	20.00
+44444415CF37F3316 
+Received pkt nbr: 44 with RSSI: -84
+Data: 44,44,44,1
+Time	11:39:38
+Temperature	20.00
+44444415BC0831F3 
+Received pkt nbr: 45 with RSSI: -68
+Data: 44,44,44,1
+Time	11:30:0
+Temperature	20.00
+44444415BC57FE2F2 
+Received pkt nbr: 46 with RSSI: -71
+Data: 44,44,44,1
+Time	11:30:10
+Temperature	20.00
+44444415BCA7FD2F6 
+Received pkt nbr: 47 with RSSI: -70
+Data: 44,44,44,1
+Time	11:30:20
+Temperature	20.00
+44444415BCF7F52F3 
+Received pkt nbr: 48 with RSSI: -65
+Data: 44,44,44,1
+Time	11:30:30
+Temperature	20.00
+44444415BD47F02F3 
+Received pkt nbr: 49 with RSSI: -65
+Data: 44,44,44,1
+Time	11:30:40
+Temperature	20.00
+44444415BD97ED2F5 
+Received pkt nbr: 50 with RSSI: -65
+Data: 44,44,44,1
+Time	11:30:50
+Temperature	20.00
+44444415BE07ED2FC 
+Received pkt nbr: 51 with RSSI: -75
+Data: 44,44,44,1
+Time	11:31:0
+Temperature	20.00
+44444415BE57EB2FF 
+Received pkt nbr: 52 with RSSI: -71
+Data: 44,44,44,1
+Time	11:31:10
+Temperature	20.00
+44444415BEA7E730 
+Received pkt nbr: 53 with RSSI: -73
+Data: 44,44,44,1
+Time	11:31:20
+Temperature	20.00
+44444415BEF7EF3D 
+Received pkt nbr: 54 with RSSI: -69
+Data: 44,44,44,1
+Time	11:31:30
+Temperature	20.00
+44444415BF47EF312 
+Received pkt nbr: 55 with RSSI: -69
+Data: 44,44,44,1
+Time	11:31:40
+Temperature	20.00
+44444415BFA7E8311 
+Received pkt nbr: 56 with RSSI: -71
+Data: 44,44,44,1
+Time	11:31:52
+Temperature	20.00
+44444415C17E4215 
+Received pkt nbr: 57 with RSSI: -72
+Data: 44,44,44,1
+Time	11:32:2
+Temperature	20.00
+44444415C67E1217 
+Received pkt nbr: 58 with RSSI: -72
+Data: 44,44,44,1
+Time	11:32:12
+Temperature	20.00
+44444415CB7E421F 
+Received pkt nbr: 59 with RSSI: -72
+Data: 44,44,44,1
+Time	11:32:22
+Temperature	20.00
+44444415C107E0220 
+Received pkt nbr: 60 with RSSI: -70
+Data: 44,44,44,1
+Time	11:32:32
+Temperature	20.00
+44444415C157E4229 
+Received pkt nbr: 61 with RSSI: -64
+Data: 44,44,44,1
+Time	11:32:42
+Temperature	20.00
